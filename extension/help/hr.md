@@ -25,6 +25,7 @@ Spanish Reader proširenje je za preglednik namijenjeno učenicima španjolskog.
 - **Govor odabira s karaoke efektom** — odaberite španjolski tekst; pojavljuje se kompaktna alatna traka s gumbima za govor i prijevod; reprodukcija ističe riječ po riječ u stvarnom vremenu
 - **Prijevod odabira** — odaberite tekst, kliknite prijevod za trenutni prijevod putem Bing Translate ili Google Translate
 - **Keyboard shortcuts** — brz pristup glavnim funkcijama putem prilagodljivih prečaca
+- **Višejezično sučelje** — Dostupno na mnogim jezicima
 
 ---
 

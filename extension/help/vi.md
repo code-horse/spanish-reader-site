@@ -25,6 +25,7 @@ Spanish Reader là tiện ích trình duyệt dành cho người học tiếng T
 - **Đọc vùng chọn kiểu karaoke** — Chọn văn bản tiếng Tây Ban Nha; thanh công cụ gọn có nút đọc và dịch; từ được làm nổi theo thời gian khi đọc
 - **Dịch vùng chọn** — Chọn văn bản, nhấn dịch để dịch tức thì qua Bing hoặc Google Translate
 - **Phím tắt** — Truy cập nhanh các tính năng cốt lõi qua phím tắt tùy chỉnh
+- **Giao diện đa ngôn ngữ** — Có sẵn bằng nhiều ngôn ngữ giao diện
 
 ---
 

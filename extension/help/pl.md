@@ -25,6 +25,7 @@ Spanish Reader to rozszerzenie przeglądarki dla uczących się hiszpańskiego. 
 - **Odczyt zaznaczenia z efektem karaoke** — zaznacz tekst; pojawi się pasek z przyciskami odczytu i tłumaczenia; słowa są podświetlane w trakcie odtwarzania
 - **Tłumaczenie zaznaczenia** — zaznacz tekst i kliknij „tłumacz”, by uzyskać natychmiastowe tłumaczenie przez Bing lub Google Translate
 - **Skróty klawiszowe** — szybki dostęp do głównych funkcji przez konfigurowalne skróty
+- **Wielojęzyczny interfejs** — Dostępny w wielu językach
 
 ---
 

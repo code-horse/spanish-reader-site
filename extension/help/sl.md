@@ -25,6 +25,7 @@ Spanish Reader je razširitev brskalnika za učenje španščine. Španskim bese
 - **Selection Speech with Karaoke Effect** — izberite špansko besedilo: prikaže se kompaktna orodna vrstica z gumboma za govor in prevod; predvajanje z označevanjem besedo za besedo v živo
 - **Selection Translation** — izberite besedilo, kliknite prevod za takojšen prevod prek Bing ali Google Translate
 - **Keyboard Shortcuts** — hiter dostop do jedrnih funkcij s prilagodljivimi bližnjicami
+- **Večjezični vmesnik** — Na voljo v mnogih jezikih
 
 ---
 

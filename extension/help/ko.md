@@ -25,6 +25,7 @@ Spanish Reader는 스페인어 학습자를 위한 브라우저 확장 프로그
 - **Selection Speech with Karaoke Effect** — 스페인어 텍스트를 선택하면 읽기·번역 버튼이 있는 컴팩트 도구 모음 표시; 재생 시 단어별 실시간 하이라이트
 - **Selection Translation** — 텍스트를 선택하고 번역 버튼을 눌러 Bing Translate 또는 Google Translate로 즉시 번역
 - **Keyboard Shortcuts** — 사용자 지정 가능한 단축키로 핵심 기능에 빠르게 접근
+- **다국어 인터페이스** — 다양한 UI 언어 지원
 
 ---
 

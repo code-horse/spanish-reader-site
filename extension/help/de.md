@@ -25,6 +25,7 @@ Spanish Reader ist eine Browser-Erweiterung für Spanischlernende. Sie ergänzt 
 - **Selection Speech with Karaoke Effect** — Beliebigen spanischen Text markieren; eine kompakte Symbolleiste mit Vorlesen und Übersetzen erscheint; beim Vorlesen werden Wörter nacheinander hervorgehoben
 - **Selection Translation** — Text markieren und auf Übersetzen klicken für sofortige Übersetzung über Bing Translate oder Google Translate
 - **Keyboard Shortcuts** — Schneller Zugriff auf Kernfunktionen über anpassbare Tastenkürzel
+- **Mehrsprachige Benutzeroberfläche** — Verfügbar in vielen Sprachen
 
 ---
 

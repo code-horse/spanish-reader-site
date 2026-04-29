@@ -25,6 +25,7 @@ Spanish Reader is een browserextensie voor wie Spaans leert. Het voegt uitspraak
 - **Selectiespraak met karaoke-effect** — selecteer Spaanse tekst; een compacte werkbalk verschijnt met spreek- en vertaalknoppen; woorden worden live gemarkeerd tijdens afspelen
 - **Selectievertaling** — selecteer tekst en klik op vertalen voor directe vertaling via Bing of Google Translate
 - **Sneltoetsen** — snelle toegang tot kernfuncties via aanpasbare sneltoetsen
+- **Meertalige interface** — Beschikbaar in veel talen
 
 ---
 

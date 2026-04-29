@@ -25,6 +25,7 @@ Ang Spanish Reader ay isang browser extension para sa mga nag-aaral ng Espanyol.
 - **Selection Speech na may Karaoke Effect** — pumili ng anumang tekstong Espanyol; may compact toolbar na may speak at translate buttons; ang speech ay may real-time word-by-word highlighting
 - **Selection Translation** — pumili ng teksto, i-click ang translate button para sa instant translation sa pamamagitan ng Bing o Google Translate
 - **Keyboard Shortcuts** — mabilis na access sa core features gamit ang customizable keyboard shortcuts
+- **Multilingual na interface** — Sinusuportahan ang maraming wika ng UI
 
 ---
 

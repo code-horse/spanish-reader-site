@@ -25,6 +25,7 @@ Spanish Reader är ett webbläsartillägg för dig som lär dig spanska. Det lä
 - **Selection Speech with Karaoke Effect** — markera spansk text; en kompakt verktygsrad visas med knappar för uppläsning och översättning; uppläsning med ord-för-ord markering i realtid
 - **Selection Translation** — markera text och klicka på översätt för direkt översättning via Bing eller Google Translate
 - **Keyboard Shortcuts** — snabb åtkomst till kärnfunktioner med anpassningsbara genvägar
+- **Flerspråkigt gränssnitt** — Tillgängligt på många språk
 
 ---
 

@@ -25,6 +25,7 @@ Spanish Reader er en browserudvidelse til dig, der lærer spansk. Den tilføjer 
 - **Markering med karaoke-effekt** — markér spansk tekst; en kompakt værktøjslinje vises med oplæsning og oversættelse; ord fremhæves ord for ord under afspilning
 - **Oversættelse af markering** — markér tekst og klik for øjeblikkelig oversættelse via Bing Translate eller Google Translate
 - **Keyboard shortcuts** — hurtig adgang med tilpasbare genveje
+- **Flersproget brugerflade** — Tilgængelig på mange sprog
 
 ---
 

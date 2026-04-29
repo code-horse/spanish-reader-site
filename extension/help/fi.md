@@ -25,6 +25,7 @@ Spanish Reader on selainlaajennus espanjan opiskelijoille. Se lisää ääntämi
 - **Valinnan puhe karaoke-efektillä** — valitse espanjaa; valinnan lähelle ilmestyy kompakti työkalurivi puhe- ja käännöspainikkeilla; toisto korostaa sanoja reaaliajassa
 - **Valinnan käännös** — valitse teksti ja napsauta käännöstä saadaksesi välittömän käännöksen Bing Translate- tai Google Translate -palvelulla
 - **Keyboard shortcuts** — nopea pääsy ydintoimintoihin mukautettavilla pikanäppäimillä
+- **Monikielinen käyttöliittymä** — Käytettävissä monilla kielillä
 
 ---
 

@@ -25,6 +25,7 @@ Spanish Reader és una browser extension pensada per a qui aprèn castellà. Afe
 - **Selection Speech with Karaoke Effect** — Seleccioneu text en castellà; apareix una barra d'eines compacta amb els botons speak i translate; la locució es reprodueix amb real-time word-by-word highlighting paraula a paraula
 - **Selection Translation** — Seleccioneu text i cliqueu translate per obtenir traducció immediata amb Bing o Google Translate
 - **Keyboard Shortcuts** — Accés ràpid a les funcions bàsiques amb keyboard shortcuts personalitzables
+- **Interfície multilingüe** — Disponible en diversos idiomes
 
 ---
 

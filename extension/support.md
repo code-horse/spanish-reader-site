@@ -66,7 +66,7 @@ A: The PDF reader supports pronunciation annotations, click-to-lookup dictionary
 A: Hover over an annotated word to see the tooltip, then click the speaker button.
 
 **Q: How do I read aloud a sentence?**  
-A: Select any Spanish text on the page. A floating toolbar will appear with a speaker button — click it to read aloud with karaoke-style word highlighting. You can also right-click and choose "Speak Selection".
+A: Select any Spanish text on the page. A selection toolbar will appear with a speaker button — click it to read aloud with karaoke-style word highlighting. You can also right-click and choose "Speak Selection".
 
 **Q: Can I adjust the speech rate?**  
 A: Yes. The "Sentence Speech Rate" setting in the popup controls the speed for sentence reading.

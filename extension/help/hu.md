@@ -25,6 +25,7 @@ A Spanish Reader egy böngészőbővítmény, amelyet spanyolul tanulóknak terv
 - **Selection Speech with Karaoke Effect** — jelölj ki spanyol szöveget: megjelenik egy kompakt eszköztár felolvasás és fordítás gombokkal; felolvasás közben szavanként kiemelés
 - **Selection Translation** — jelölj ki szöveget, kattints a fordítás gombra azonnali fordításért Bing vagy Google Translate segítségével
 - **Keyboard Shortcuts** — gyors hozzáférés a fő funkciókhoz testreszabható billentyűparancsokkal
+- **Többnyelvű felület** — Sok nyelven elérhető
 
 ---
 

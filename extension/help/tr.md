@@ -25,6 +25,7 @@ Spanish Reader, İspanyolca öğrenenler için tasarlanmış bir tarayıcı uzan
 - **Karaoke efektli seçim okuma** — İspanyolca metni seçin; konuş ve çevir düğmeli kompakt bir araç çubuğu belirir; okuma sırasında kelimeler vurgulanır
 - **Seçim çevirisi** — Metni seçin, çevir düğmesine tıklayın; anında Bing veya Google Translate ile çeviri
 - **Klavye kısayolları** — Özelleştirilebilir kısayollarla temel özelliklere hızlı erişim
+- **Çok dilli arayüz** — Birçok dilde kullanılabilir
 
 ---
 

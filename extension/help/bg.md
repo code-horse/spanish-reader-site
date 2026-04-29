@@ -25,6 +25,7 @@ Spanish Reader е browser extension за изучаващи испански. Д
 - **Selection Speech with Karaoke Effect** — Маркирайте испански текст; появява се компактен toolbar с бутони speak и translate; речта се възпроизвежда с real-time word-by-word highlighting
 - **Selection Translation** — Маркирайте текст, кликнете translate за моментален превод чрез Bing или Google Translate
 - **Keyboard Shortcuts** — Бърз достъп до основните функции чрез настройваеми keyboard shortcuts
+- **Многоезичен интерфейс** — Наличен на много езици
 
 ---
 

@@ -25,6 +25,7 @@ Spanish Reader je rozšíření prohlížeče určené pro studenty španělšti
 - **Čtení označení s karaoke efektem** — označte španělský text; u výběru se zobrazí kompaktní panel s tlačítky čtení a překladu; přehrávání zvýrazňuje slova za slovem v reálném čase
 - **Překlad označení** — označte text, klikněte na překlad a získejte okamžitý překlad přes Bing Translate nebo Google Translate
 - **Keyboard shortcuts** — rychlý přístup k hlavním funkcím díky přizpůsobitelným klávesovým zkratkám
+- **Vícejazyčné rozhraní** — Dostupné v mnoha jazycích
 
 ---
 
