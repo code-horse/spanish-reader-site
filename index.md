@@ -5,7 +5,13 @@ title: Spanish Reader
 
 # Spanish Reader
 
-A Spanish pronunciation learning tool with pronunciation annotations and syllable marks.
+A Spanish pronunciation learning tool with IPA annotations, reading tools, and speaking practice.
+
+## Mobile App
+
+- [Privacy Policy](./privacy-policy)
+- [Terms of Service](./terms-of-service)
+- [Support](./support)
 
 ## Browser Extension
 
