@@ -6,7 +6,7 @@ lang: hu
 
 # Spanish Reader — Felhasználói útmutató
 
-> Verzió: v1.0.0
+> Verzió: v1.5.1
 
 ## Bevezetés
 

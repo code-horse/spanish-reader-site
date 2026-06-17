@@ -1,7 +1,7 @@
 ---
 layout: bare
 title: Spanish Reader Extension - User Guide
-lang: en
+lang: en-AU
 ---
 
 # Spanish Reader - User Guide

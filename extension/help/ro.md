@@ -6,7 +6,7 @@ lang: ro
 
 # Spanish Reader — Ghid de utilizare
 
-> Versiune: v1.0.0
+> Versiune: v1.5.1
 
 ## Introducere
 

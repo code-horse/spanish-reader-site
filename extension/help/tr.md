@@ -6,7 +6,7 @@ lang: tr
 
 # Spanish Reader — Kullanım Kılavuzu
 
-> Sürüm: v1.0.0
+> Sürüm: v1.5.1
 
 ## Giriş
 

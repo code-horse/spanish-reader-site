@@ -6,7 +6,7 @@ lang: no
 
 # Spanish Reader — Brukerveiledning
 
-> Versjon: v1.0.0
+> Versjon: v1.5.1
 
 ## Innledning
 

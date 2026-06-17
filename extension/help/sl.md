@@ -6,7 +6,7 @@ lang: sl
 
 # Spanish Reader — Uporabniški priročnik
 
-> Različica: v1.0.0
+> Različica: v1.5.1
 
 ## Uvod
 

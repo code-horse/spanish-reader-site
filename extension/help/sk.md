@@ -6,7 +6,7 @@ lang: sk
 
 # Spanish Reader — Používateľská príručka
 
-> Verzia: v1.0.0
+> Verzia: v1.5.1
 
 ## Úvod
 

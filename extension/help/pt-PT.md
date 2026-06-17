@@ -1,7 +1,7 @@
 ---
 layout: bare
 title: Spanish Reader Extensão - Guia do usuário
-lang: pt
+lang: pt-PT
 ---
 
 # Spanish Reader - Guia do usuário

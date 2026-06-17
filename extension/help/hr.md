@@ -6,7 +6,7 @@ lang: hr
 
 # Spanish Reader — Korisnički priručnik
 
-> Verzija: v1.0.0
+> Verzija: v1.5.1
 
 ## Uvod
 

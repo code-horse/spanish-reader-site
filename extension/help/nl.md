@@ -6,7 +6,7 @@ lang: nl
 
 # Spanish Reader — Handleiding
 
-> Versie: v1.0.0
+> Versie: v1.5.1
 
 ## Inleiding
 

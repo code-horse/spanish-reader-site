@@ -6,7 +6,7 @@ lang: fil
 
 # Spanish Reader — Gabay ng Gumagamit
 
-> Bersyon: v1.0.0
+> Bersyon: v1.5.1
 
 ## Panimula
 

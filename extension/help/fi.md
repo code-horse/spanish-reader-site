@@ -6,7 +6,7 @@ lang: fi
 
 # Spanish Reader — Käyttöopas
 
-> Versio: v1.0.0
+> Versio: v1.5.1
 
 ## Johdanto
 
