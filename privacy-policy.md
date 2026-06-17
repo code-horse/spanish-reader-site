@@ -17,8 +17,8 @@ title: Privacy Policy - Spanish Reader
 
 Welcome to Spanish Reader ("we", "our", "us"). This Privacy Policy explains how the Spanish Reader mobile application ("Spanish Reader" or "the App") handles your information.
 
-**Developer**: code-horse  
-**Contact**: 2008-horse@163.com
+**Developer**: 2008-horse  
+**Contact**: support@2008-horse.com
 
 ### 2. Information We Do NOT Collect
 
@@ -111,5 +111,4 @@ We may update this Privacy Policy from time to time. Changes are reflected by up
 
 If you have privacy questions, contact:
 
-- **Email**: 2008-horse@163.com
-
+- **Email**: support@2008-horse.com

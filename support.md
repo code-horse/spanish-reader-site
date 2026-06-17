@@ -70,7 +70,7 @@ You can also uninstall the app to remove local data.
 
 For support, feedback, or questions:
 
-- **Email**: [2008-horse@163.com](mailto:2008-horse@163.com)
+- **Email**: [support@2008-horse.com](mailto:support@2008-horse.com)
 
 ---
 
@@ -78,4 +78,3 @@ For support, feedback, or questions:
 
 - [Privacy Policy](./privacy-policy)
 - [Terms of Service](./terms-of-service)
-

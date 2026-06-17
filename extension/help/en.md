@@ -213,7 +213,7 @@ A: No — pronunciation and dictionary runs **on device**. Only **optional** tra
 A: Yes on normal `https` pages. Dynamic infinite feeds may need scrolling to load more content before toggling whole-page mode.
 
 **Q: Support contact?**  
-A: [2008-horse@163.com](mailto:2008-horse@163.com) for feedback and issues (see [Support page](../support)).
+A: [support@2008-horse.com](mailto:support@2008-horse.com) for feedback and issues (see [Support page](../support)).
 
 ---
 

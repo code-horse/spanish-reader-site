@@ -15,12 +15,12 @@ title: Terms of Service - Spanish Reader
 
 ### 1. Introduction
 
-These Terms of Service ("Terms") govern your use of the Spanish Reader mobile application ("the App"), provided by code-horse ("we", "our", "us").
+These Terms of Service ("Terms") govern your use of the Spanish Reader mobile application ("the App"), provided by 2008-horse ("we", "our", "us").
 
 By downloading, installing, or using the App, you agree to these Terms.
 
-**Developer**: code-horse  
-**Contact**: 2008-horse@163.com
+**Developer**: 2008-horse  
+**Contact**: support@2008-horse.com
 
 ### 2. App Description
 
@@ -63,7 +63,7 @@ Spanish Reader includes a browser and can open third-party websites. We do not c
 
 ### 7. Intellectual Property
 
-The App code, design, and product assets are owned by code-horse or licensed to us. You may not copy, redistribute, or commercially exploit the App without authorization.
+The App code, design, and product assets are owned by 2008-horse or licensed to us. You may not copy, redistribute, or commercially exploit the App without authorization.
 
 ### 8. Disclaimer
 
@@ -89,5 +89,4 @@ These Terms are governed by applicable laws in relevant jurisdictions, without p
 
 If you have questions about these Terms:
 
-- **Email**: 2008-horse@163.com
-
+- **Email**: support@2008-horse.com
