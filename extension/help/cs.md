@@ -6,7 +6,7 @@ lang: cs
 
 # Spanish Reader — Uživatelská příručka
 
-> Verze: v1.5.1
+> Verze: v1.6.0
 
 ## Úvod
 

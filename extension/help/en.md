@@ -6,7 +6,7 @@ lang: en
 
 # Spanish Reader - User Guide
 
-> Version: v1.5.1
+> Version: v1.6.0
 
 ## Introduction
 
@@ -236,3 +236,14 @@ A: [support@2008-horse.com](mailto:support@2008-horse.com) for feedback and issu
 - [Support & Feedback](../support)
 
 ---
+
+## Dictionary Data Sources & Licenses
+
+Spanish Reader's multilingual definitions are built from the following open-source dictionary projects:
+
+| Source | Languages | License |
+|--------|-----------|---------|
+| [Wiktionary](https://kaikki.org/dictionary/) (kaikki.org extract) | EN, ZH, FR, DE, JA, KO, RU, VI | CC-BY-SA 3.0 / GFDL |
+| [FreeDict](https://freedict.org/) / WikDict | DE | GPL / CC-BY-SA |
+
+All dictionary data is processed offline and bundled within the extension. No network requests are made for lookups. Original data is redistributed under the terms of the respective licenses listed above. Traditional Chinese (繁體中文) definitions are converted locally from Simplified Chinese using OpenCC.

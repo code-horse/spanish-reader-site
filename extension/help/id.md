@@ -6,7 +6,7 @@ lang: id
 
 # Spanish Reader — Panduan Pengguna
 
-> Versi: v1.5.1
+> Versi: v1.6.0
 
 ## Pengantar
 

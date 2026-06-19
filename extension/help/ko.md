@@ -6,7 +6,7 @@ lang: ko
 
 # Spanish Reader - 사용 가이드
 
-> 버전: v1.5.1
+> 버전: v1.6.0
 
 ## 소개
 

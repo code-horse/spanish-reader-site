@@ -6,7 +6,7 @@ lang: zh
 
 # Spanish Reader - 使用手册
 
-> 版本：v1.5.1
+> 版本：v1.6.0
 
 ## 简介
 

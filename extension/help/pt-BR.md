@@ -6,7 +6,7 @@ lang: pt-BR
 
 # Spanish Reader - Guia do usuário
 
-> Versão: v1.5.1
+> Versão: v1.6.0
 
 ## Introdução
 
