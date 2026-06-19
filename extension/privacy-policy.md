@@ -107,6 +107,20 @@ The Extension requests the following browser permissions:
 | Library | Purpose | Data Handling |
 |---------|---------|---------------|
 | PDF.js (Mozilla) | Render PDF documents | Runs entirely locally |
+| Wiktionary-derived datasets via kaikki.org | EN, ZH, FR, DE, JA, KO, RU, VI definition data | Pre-built data bundled locally |
+| FreeDict / WikDict | German definitions | Pre-built data bundled locally |
+| OpenCC-js | Runtime Simplified/Traditional Chinese conversion | Runs entirely locally |
+
+#### Open-source Dictionary Attribution
+
+Spanish Reader bundles offline dictionary resources from open-source or public projects:
+
+- **Definition data**: English, Chinese, French, German, Japanese, Korean, Russian, Vietnamese definitions use bundled Wiktionary-derived extracts from kaikki.org; German definitions are supplemented by FreeDict/WikDict data. Traditional Chinese is converted locally from Simplified Chinese using OpenCC.
+- **Script conversion**: OpenCC-js is used locally for Simplified/Traditional Chinese conversion when needed.
+
+All dictionary lookups run locally in your browser, and we do not operate a dictionary backend service.
+
+Upstream projects retain their own copyright and license terms. For authoritative licensing details, please refer to each project's official repository or website.
 
 ### 11. Children's Privacy
 
